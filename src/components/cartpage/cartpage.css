@@ -1,0 +1,10 @@
+.cartPage {
+    margin: 7.5%;
+}
+
+.cartItem {
+    border: 1px solid black;
+    display: flex;
+    justify-content: space-evenly;
+    padding: 20px;
+}

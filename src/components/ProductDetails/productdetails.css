@@ -1,0 +1,28 @@
+.productPage {
+    margin: 6%;
+    margin-top: 0;
+    display: flex;
+    justify-content: space-evenly;
+
+}
+
+.image {
+    margin-top: 25px;
+    width: 75%;
+    height: 70%;
+    border: 1 px solid black;
+
+}
+
+.productImage {
+    width: 43%;
+    padding-left: 15%;
+    margin-top: 50px;
+    height: 100%;
+    align-self: center;
+}
+
+.productdetails {
+    width: 30%;
+    padding-right: 12%;
+}
